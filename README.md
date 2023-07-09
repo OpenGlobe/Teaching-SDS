@@ -12,5 +12,6 @@ An example syllabus can be found [here](Syllabus%20for%20Advanced%20Geographic%2
 - [Spatial Analytics at the 2023 Esri UC](https://www.esri.com/arcgis-blog/products/arcgis/announcements/spatial-analytics-is-everywhere-at-the-2023-user-conference/)
 - [GeoAI and Deep Learning Resources](https://community.esri.com/t5/education-blog/geoai-and-deep-learning-resources/ba-p/885118)
 - [Deep Learning with ArcGIS Pro Tips & Tricks: Part 2](https://www.esri.com/arcgis-blog/products/arcgis-pro/imagery/deep-learning-with-arcgis-pro-tips-tricks-part-2/)
-
+- [GIS for Science Technology Showcase](https://downloads.esri.com/esripress/books/gis-for-science-tech-showcase/index.html) (h/t Canserina Kurnia)
+- [Teaching Spatial Data Science and Deep Learning](https://www.gisforscience.com/chapter12/) (h/t Ilya Zaslavsky)
 
